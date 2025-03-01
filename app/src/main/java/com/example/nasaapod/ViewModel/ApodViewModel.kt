@@ -6,8 +6,8 @@ import android.os.Build
 import androidx.annotation.RequiresExtension
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.nasaapod.Data.ApodModel
-import com.example.nasaapod.Data.ApodRepository
+import com.example.nasaapod.Data.model.ApodModel
+import com.example.nasaapod.Data.repository.ApodRepository
 import com.example.nasaapod.R
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

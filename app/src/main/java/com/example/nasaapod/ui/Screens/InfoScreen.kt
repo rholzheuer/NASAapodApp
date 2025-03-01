@@ -1,4 +1,4 @@
-package com.example.nasaapod.Screens
+package com.example.nasaapod.ui.Screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState

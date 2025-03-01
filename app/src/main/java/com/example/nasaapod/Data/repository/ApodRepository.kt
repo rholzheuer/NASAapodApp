@@ -1,5 +1,7 @@
-package com.example.nasaapod.Data
+package com.example.nasaapod.Data.repository
 
+import com.example.nasaapod.Data.model.ApodModel
+import com.example.nasaapod.Data.service.ApodService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

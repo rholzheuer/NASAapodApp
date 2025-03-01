@@ -1,4 +1,4 @@
-package com.example.nasaapod.Data
+package com.example.nasaapod.Data.model
 
 import com.google.gson.annotations.SerializedName
 

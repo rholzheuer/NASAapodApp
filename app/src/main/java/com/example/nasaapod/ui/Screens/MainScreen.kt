@@ -1,4 +1,4 @@
-package com.example.nasaapod.Screens
+package com.example.nasaapod.ui.Screens
 
 import android.os.Build
 import android.os.ext.SdkExtensions
@@ -24,7 +24,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
-import com.example.nasaapod.Data.ApodModel
+import com.example.nasaapod.Data.model.ApodModel
 import com.example.nasaapod.R
 import com.example.nasaapod.ViewModel.ApodViewModel
 
