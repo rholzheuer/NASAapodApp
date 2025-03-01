@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">nasaapod</string>
+
+    <!-- Main Screen -->
+    <string name="main_screen_title">NASA Picture of the Day</string>
+    <string name="date_format">Date: %1$s</string>
+    <string name="copyright_format">© %1$s</string>
+    <string name="error_message">Error: %1$s</string>
+
+    <!-- Info Button -->
+    <string name="info_button_description">Information</string>
+    <string name="back_button_description">Navigate back</string>
+
+    <!-- Info Screen -->
+    <string name="info_screen_title">About This App</string>
+    <string name="app_title">NASA APOD Viewer</string>
+
+    <!-- About the App Section -->
+    <string name="about_app_section_title">About the App</string>
+    <string name="about_app_description">This application displays NASA\'s Astronomy Picture of the Day (APOD), featuring stunning images of our universe along with explanations from professional astronomers.</string>
+
+    <!-- NASA API Section -->
+    <string name="nasa_api_section_title">NASA APOD API</string>
+    <string name="nasa_api_description">The content displayed in this app is sourced from NASA\'s open API for the Astronomy Picture of the Day. Each day, a different image or photograph of our universe is featured, along with a brief explanation written by a professional astronomer.</string>
+    <string name="nasa_api_website">For more information, visit: https://apod.nasa.gov/apod/</string>
+
+    <!-- App Version Section -->
+    <string name="app_version_section_title">App Version</string>
+    <string name="app_version">Version: 1.0.0</string>
+    <string name="app_development">Developed with Jetpack Compose by Robin Holzheuer</string>
+
+    <!-- Error Messages -->
+    <string name="network_error">Network error: Please check your internet connection</string>
+    <string name="http_error">HTTP error: %1$s</string>
+    <string name="unknown_error">Unknown error: %1$s</string>
+</resources>
